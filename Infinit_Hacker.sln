@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F91CC0BA-2AEF-12BE-681B-DFCD8E6F6FEA}") = "Infinit_Hacker", "Assembly-CSharp.csproj", "{4EBD0788-5377-6D9E-6B29-7786E33E9D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBD0788-5377-6D9E-6B29-7786E33E9D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBD0788-5377-6D9E-6B29-7786E33E9D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBD0788-5377-6D9E-6B29-7786E33E9D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBD0788-5377-6D9E-6B29-7786E33E9D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
